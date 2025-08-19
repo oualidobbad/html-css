@@ -1,0 +1,16 @@
+p{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+.p1{
+	font-family: montserrat;
+	font-size: 35px;
+	font-weight: bold;
+}
+.p2{
+	font-size: 25px;
+}
+.span-p2{
+	text-decoration: underline;
+}
